@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ABIDURROHMAN</h1>
+<h1 align="center">Hi there👋, I'm ABIDURROHMAN</h1>
 
 <h3 align="center">
   🎯 Aspiring Data Analyst | Information Systems Student
@@ -16,7 +16,10 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/excel_48x1.svg" alt="Excel" width="45" height="45"/>
+  </a>
+
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
   </a>
@@ -33,10 +36,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
   </a>
 
-  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/excel_48x1.svg" alt="Excel" width="45" height="45"/>
-  </a>
-</p>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</a>
 
 ---
 ### 👨‍💻 About Me
