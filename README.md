@@ -1,46 +1,110 @@
 <h1 align="center">Hi 👋, I'm ABIDURROHMAN</h1>
-<h3 align="center">I'm a student aspiring to become a data analyst, but I'm still working hard at learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdrhmn&label=Profile%20views&color=0e75b6&style=flat" alt="abdrhmn" /> </p>
+<h3 align="center">
+  🎯 Aspiring Data Analyst | Information Systems Student
+</h3>
 
-- 🌱 I’m currently learning **SQL, EXCEL, PYTHON**
-
-- 📫 How to reach me **abidurrohman764@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  I'm currently learning how to turn raw data into meaningful insights using SQL, Excel, Python, and data analysis tools.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdrhmn&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+* 🎓 Information Systems Student
+* 📊 Aspiring Data Analyst
+* 🌱 Currently learning **SQL, Excel, and Python**
+* 🧹 Learning **Data Cleaning & Data Analysis**
+* 🐍 Practicing data analysis with **Python & Pandas**
+* 🗄️ Practicing databases with **MySQL & PostgreSQL**
+* 📈 Building my skills through projects and hands-on practice
+* 📫 Reach me at **[abidurrohman764@gmail.com](mailto:abidurrohman764@gmail.com)**
+
+---
+
+### 🛠️ Languages & Tools
+
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
   </a>
 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
   </a>
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
+
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
   </a>
 
   <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/excel_48x1.svg" alt="excel" width="40" height="40"/>
+    <img src="https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/excel_48x1.svg" alt="Excel" width="45" height="45"/>
   </a>
 </p>
 
-<!--
-**abidurrohman764-dotcom/abidurrohman764-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdrhmn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdrhmn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdrhmn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🐍 Contribution Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdrhmn/abdrhmn/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
+</p>
+
+---
+
+### 📈 My Learning Journey
+
+```text
+SQL
+ ↓
+Excel
+ ↓
+Data Cleaning
+ ↓
+Python
+ ↓
+Pandas
+ ↓
+Data Analysis
+ ↓
+Data Visualization
+ ↓
+Portfolio Projects
+ ↓
+Data Analyst 🚀
+```
+
+---
+
+### 🎯 Current Goal
+
+> **Learn → Practice → Build Projects → Analyze Data → Become a Data Analyst**
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
