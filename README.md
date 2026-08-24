@@ -14,19 +14,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-* 🎓 Information Systems Student
-* 📊 Aspiring Data Analyst
-* 🌱 Currently learning **SQL, Excel, and Python**
-* 🧹 Learning **Data Cleaning & Data Analysis**
-* 🐍 Practicing data analysis with **Python & Pandas**
-* 🗄️ Practicing databases with **MySQL & PostgreSQL**
-* 📈 Building my skills through projects and hands-on practice
-* 📫 Reach me at **[abidurrohman764@gmail.com](mailto:abidurrohman764@gmail.com)**
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="left">
@@ -51,6 +38,17 @@
   </a>
 </p>
 
+---
+### 👨‍💻 About Me
+
+* 🎓 Information Systems Student
+* 📊 Aspiring Data Analyst
+* 🌱 Currently learning **SQL, Excel, and Python**
+* 🧹 Learning **Data Cleaning & Data Analysis**
+* 🐍 Practicing data analysis with **Python & Pandas**
+* 🗄️ Practicing databases with **MySQL & PostgreSQL**
+* 📈 Building my skills through projects and hands-on practice
+* 📫 Reach me at **[abidurrohman764@gmail.com](mailto:abidurrohman764@gmail.com)**
 ---
 
 ### 📈 My Learning Journey
