@@ -55,18 +55,28 @@
 
 ### 📊 GitHub Statistics
 
+<h2>📊 GitHub Statistics</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdrhmn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abdrhmn&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdrhmn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=abdrhmn&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdrhmn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdrhmn&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
-
 ---
 
 ### 🐍 Contribution Game
