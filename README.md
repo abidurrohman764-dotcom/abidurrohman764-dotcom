@@ -34,10 +34,6 @@
   </a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdrhmn&show_icons=true&locale=en" alt="abdrhmn" /></p>
-
-
 <!--
 **abidurrohman764-dotcom/abidurrohman764-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
